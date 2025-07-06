@@ -967,6 +967,10 @@ p{
         flex-direction: column;
         padding: 10px 0;
     }
+
+    #home .navbar nav ul a {
+        margin: 0 3px;
+    }
     
     #home .home-content .col h1 {
         font-size: 32px;
