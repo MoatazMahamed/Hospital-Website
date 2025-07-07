@@ -1039,6 +1039,7 @@ p{
     #home .home-content {
         min-height: 80vh;
         padding-top: 6rem;
+        background: none;
     }
 
     #home .home-content .col h1 {
@@ -1114,6 +1115,10 @@ p{
     /* Home */
     #home .navbar .logo {
         width: 200px;
+    }
+
+    #home .home-content {
+        background: none;
     }
 
     #home .home-content .col h1 {
